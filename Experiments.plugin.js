@@ -1,13 +1,11 @@
 /**
- * @name Experiments
+ * @name 0Experiments
  * @author Shisuro
  * @authorId 664105253641125901
  * @version 0.0.1
  * @invite qjdFktNQJF
  * @description Experiments quick fix.
- * @website https://shisuro.github.io/
  * @source https://github.com/shisuro/Experiments
- * @updateUrl https://shisuro.github.io/Experiments/Experiments.plugin.js
  */
 /*@cc_on
 @if (@_jscript)
@@ -30,7 +28,7 @@ WScript.Quit();
 module.exports = (() => {
   const config = {
     info: {
-      name: "Experiments",
+      name: "0Experiments",
       authors: [
         {
           name: "Shisuro",
